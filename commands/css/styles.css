@@ -1,0 +1,28 @@
+body {
+    background-image: url('https://i.ibb.co/gPL53QS/7a9efe5da2fb75e6896b5837611ec42a.jpg');
+    background-size: cover;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: justify;
+    padding: 20px;
+}
+
+.tabs {
+    margin-bottom: 20px;
+}
+
+.tab {
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    background-color: #fff;
+    margin: 0 5px;
+}
+
+.tab-content {
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: rgba(255, 255, 255, 0.8);
+}
